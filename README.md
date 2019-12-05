@@ -12,7 +12,7 @@
     </thead>
     <tbody>
     <tr style='background-color: none;'>
-    <td > RAM/Host	</td>
+    <td style="color:blue;"> RAM/Host	</td>
     <td> 24TB</td>
     <td> 12 TB	</td>
     <td> 5TB	</td>
